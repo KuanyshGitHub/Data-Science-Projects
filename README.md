@@ -1,19 +1,10 @@
 # Data-Science-Projects
 My data science training projects
 
-According to [Data Science Methodology](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
-1. Business Understanding
-2. Analytic Approach
-3. Data Requirments
-4. Data Collection
-5. Data Understanding
-6. Data Preparation
-7. Modeling
-8. Evaluation
-9. Deployment
-10. Feedback
+Note: If you are interested in Data Science, I recommend you to get familiar with [Data Science Methodology](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
 
 
-- [Data Cleaning and Initial Analysis]()
+
+- [Data Cleaning and Initial Analysis](https://github.com/KuanyshGitHub/Data-Science-Projects/blob/master/Data%20Cleaning%20and%20Analysis.ipynb) - project to train my skills in __Data Cleaning__ and perform some initial Analysis
 
 
