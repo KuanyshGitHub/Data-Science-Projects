@@ -13,6 +13,7 @@ According to [Data Science Methodology](https://www.ibmbigdatahub.com/blog/why-w
 9. Deployment
 10. Feedback
 
-As we can see, before performing data analysis we need to first understand business, collect and prepare data. Data preparation is most time consuming part of Data Science Methodology. In order to train my skills in Data Cleaning and performing initial Analysis I completed project.
+
+- [Data Cleaning and Initial Analysis]()
 
 
