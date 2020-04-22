@@ -1,6 +1,6 @@
 ### Welcome!
 ### I am Kuanysh Tazhibayev
-### Data Analyst from Kazakshtan
+### Business Analyst from Kazakshtan
 
 [link to my CV](https://drive.google.com/file/d/11-_2ge7EdelDZrkOcXSxvQpE1wWQH9Bc/view?usp=sharing)
 
