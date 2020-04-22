@@ -9,7 +9,7 @@
 ### Data Science Projects
 My data science training projects
 
-Note: If you are interested in Data Science, I recommend you to get familiar with [Data Science Methodology](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
+Note: If you are interested in Data Science, first of all I highly recommend you to read John Rollin's article [Why we need a methodology for data science](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science)
 
 
 
