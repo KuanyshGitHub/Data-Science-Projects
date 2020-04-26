@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuanysh Tazhibayev"
-  avatar           : "/assets/img/IMG_1078.jpg"
+  avatar           : "/images/IMG_1078.jpg"
   bio              : "Porfolio"
   location         : "Kazakhstan"
   email            :
@@ -102,7 +102,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kuanysh.tazhibayev@gmail.com
-    - label: "Linkeding"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/kuanysh-tazhibayev"
     - label: "Twitter"
