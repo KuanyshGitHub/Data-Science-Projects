@@ -3,9 +3,7 @@ title: "Simple brute-force attack example"
 date: 2020-04-26
 ---
 
-# Simple brute-force attack example
-
-Let me show you simple brute-force attack that you can perform
+Here is my example of simple brute-force attack that you can perform
 
 __Please make sure that performing brute force attacks on other sites is illegal__
 
