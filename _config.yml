@@ -99,24 +99,19 @@ author:
   location         : "Kazakhstan"
   email            :
   links:
+    - label: "Take a look on my CV"
+      icon: "fab fa-fw fa-file-o"
+      url: "https://drive.google.com/drive/u/1/my-drive"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kuanysh.tazhibayev@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/kuanysh-tazhibayev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kuanyshdev"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KuanyshGitHub"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
