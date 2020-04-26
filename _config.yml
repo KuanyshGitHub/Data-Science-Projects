@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuanysh Tazhibayev"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/IMG-1078.jpeg"
   bio              : "Porfolio"
   location         : "Kazakhstan"
   email            :
